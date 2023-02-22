@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to heynature-teamproject 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/KimYuRa2/heynature-fin/" target="_blank">
+  <a href="https://github.com/KimYuRa2/heynature-teamproject/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
